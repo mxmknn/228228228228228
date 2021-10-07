@@ -3,6 +3,6 @@
   <link rel="stylesheet" href="style.css" type="text/css"/>
   <body>
     <h1>Животные!!!!!!!!!!</h1>
-    <p>котозавр</p>
+    <a href:"">котозавр</a>
   </body>
 </html>
